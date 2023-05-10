@@ -1,0 +1,26 @@
+body {
+    background-color: pink ;
+}
+
+h1 {
+    font-size: 20px;
+    color: blue
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.heading {
+   color: green; 
+}
+
+#specialHeading {
+    color: pink; 
+ }
+
+
+/* .class  --> style a group of elements */
+/* #id  --> style a specific element */
+/* inline => id => class => tag
